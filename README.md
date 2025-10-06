@@ -20,7 +20,7 @@ This repository provides all relevant scripts, environments, and notebooks neede
 ## Repository Contents
 
 - `scripts/`: Code and Jupyter notebooks for data analysis and figure reproduction.
-- `data/`: Folder reserved for public or example data files (optional).
+- `data/`:  This directory contains the fully integrated AnnData (.h5ad) objects, accompanying cell metadata, and marker gene lists necessary for reproducing all analyses and visualizations.
 - `index.html`: Redirects to the public Google Drive folder.
 - `README.md`: Project overview and documentation.
 

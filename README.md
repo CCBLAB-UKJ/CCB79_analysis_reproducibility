@@ -13,7 +13,7 @@ This repository provides all relevant scripts, environments, and notebooks neede
 
 
 - **scRNA-seq Notebook**  
-  [`CCB79_all_final_figures.ipynb`](https://drive.google.com/drive/folders/1up240YzYodrExOrBsrUbWrU_Sq8tk5SI): Contains figure generation code for the single-cell RNA-seq data analysis.
+  [`CCB79_all_final_figures.ipynb`](https://drive.google.com/drive/folders/1uqPLuKwfF13z9WaKQJd62FNs4AbQkiaF): Contains figure generation code for the single-cell RNA-seq data analysis.
 
 ---
 

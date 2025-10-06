@@ -9,11 +9,11 @@ This repository provides all relevant scripts, environments, and notebooks neede
 ## 📁 Project Access
 
 - **Google Drive Folder**  
-  [Access full datasets, figures, and supplementary materials](https://drive.google.com/drive/u/0/folders/1UTUZv-4VrK8HzG4wwUyqKB6pu6RfSMfc)  
+  [Access full datasets, figures, and supplementary materials](https://drive.google.com/drive/folders/1up240YzYodrExOrBsrUbWrU_Sq8tk5SI)  
 
 
 - **scRNA-seq Notebook**  
-  [`scripts/scRNA_CCB79_Figures.ipynb`](scripts/scRNA_CCB79_Figures.ipynb): Contains figure generation code for the single-cell RNA-seq data analysis.
+  [`CCB79_all_final_figures.ipynb`](https://drive.google.com/drive/folders/1up240YzYodrExOrBsrUbWrU_Sq8tk5SI): Contains figure generation code for the single-cell RNA-seq data analysis.
 
 ---
 

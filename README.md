@@ -46,7 +46,7 @@ If you use any part of this work, please cite the following:
 > [_Preprint link_](https://www.biorxiv.org/content/10.1101/2025.08.01.668123v1)
 
 # → `#` denotes equal contribution  
-* → Corresponding author Jay Gopalakrishnan: jay.gopalakrishnan@med.uni-jena.de <jay.gopalakrishnan@med.uni-jena.de>
+* → Corresponding author Jay Gopalakrishnan: jay.gopalakrishnan@med.uni-jena.de <jay.gopalakrishnan@uni-jena.de>
 
 ---
 

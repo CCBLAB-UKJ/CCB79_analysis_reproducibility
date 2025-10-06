@@ -53,4 +53,4 @@ If you use any part of this work, please cite the following:
 ## 📬 Contact
 
 For questions or collaboration inquiries, contact:  
-📧 `your-email@example.com`
+📧 `jay.gopalakrishnan@med.uni-jena.de;vaibhav.jadhav@uni-jena.de.com`
